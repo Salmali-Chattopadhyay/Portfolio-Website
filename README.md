@@ -71,11 +71,10 @@ portfolio-website/
 - Call-to-action button
 
 ###  Services
-- 4 service offerings displayed in a grid:
+- 3 service offerings displayed in a grid:
   - Web Development
   - Graphic Design
-  - Digital Marketing
-  - Icon Design
+  - Data Analysis
 - Contact section with "Let's Chat" CTA
 - Footer with copyright information
 
@@ -86,7 +85,7 @@ portfolio-website/
   - CSS (80%)
   - JavaScript (70%)
   - PHP (60%)
-- "10 Years of Experience" highlight
+- 
 - Download CV button
 
 ###  Education
@@ -99,11 +98,9 @@ portfolio-website/
 
 ###  Experience
 - Professional experience cards in grid layout
-- 4 internship/training positions:
-  - Machine Learning Intern
+- 2 internship/training positions:
   - Web Development Intern
   - Data Analysis Intern
-  - Software Development Trainee
 - Detailed responsibilities and achievements for each role
 
 ##  Setup and Installation
@@ -147,19 +144,8 @@ The website is fully responsive and optimized for:
 - Edge
 - Opera
 
-##  Customization
 
-To customize this portfolio for your own use:
 
-1. Replace personal information in HTML files
-2. Update the color scheme in CSS files (search for `#D8125B` and `burlywood`)
-3. Replace `main.jpg` with your own profile image
-4. Update social media links in `index.html`
-5. Modify skills, education, and experience content as needed
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/portfolio-website/issues).
 
 ##  Author
 
